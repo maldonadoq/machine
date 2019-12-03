@@ -31,6 +31,6 @@ with tf.Session() as sess:
 
     cval, gradt1val, gradt2val, gradt3val = out
     print('res: ', cval)
-    print('grad 1: ', gradt1val)
-    print('grad 2: ', gradt2val)
-    print('grad 3: ', gradt3val)
+    print('grad 1\n', gradt1val)
+    print('grad 2\n', gradt2val)
+    print('grad 3\n', gradt3val)

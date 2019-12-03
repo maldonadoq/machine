@@ -25,6 +25,6 @@ gradt3 = gradb * a
 gradt2 = grada.copy()
 gradt1 = grada.copy()
 
-print('grad 1: ', gradt1)
-print('grad 2: ', gradt2)
-print('grad 3: ', gradt3)
+print('grad 1\n', gradt1)
+print('grad 2\n', gradt2)
+print('grad 3\n', gradt3)

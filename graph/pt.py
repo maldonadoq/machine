@@ -25,6 +25,6 @@ gradt1 = t1.grad.data
 gradt2 = t1.grad.data
 gradt3 = t1.grad.data
 
-print('grad 1: ', gradt1)
-print('grad 2: ', gradt2)
-print('grad 3: ', gradt3)
+print('grad 1\n', gradt1)
+print('grad 2\n', gradt2)
+print('grad 3\n', gradt3)
